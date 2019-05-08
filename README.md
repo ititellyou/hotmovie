@@ -12,3 +12,9 @@
 
 ## vant 组件地址
 - [vant 组件地址](https://youzan.github.io/vant-weapp/#/intro)
+
+## 云开发所需request地址
+- [云开发所需request地址](https://github.com/request/request)
+
+## 阿里巴巴矢量图标库
+- [阿里巴巴矢量图标库](https://www.iconfont.cn/)
